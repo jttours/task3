@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "./task3-client"
+		},
+		{
+			"path": "./task3-server"
+		}
+	],
+	"settings": {
+		"jshint.enable" : false
+	}
+}
